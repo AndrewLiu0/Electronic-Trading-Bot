@@ -5,8 +5,8 @@ This challenge involves writing a bot to trade securities on a mock exchange. Th
 
 
 ## Risk Limits and Profit/Loss
--Position Limits: Each security has a position limit (e.g., 100 shares for BOND). Your position in any security must remain within these limits.
--Profit and Loss (PnL): Your PnL is the value of your portfolio. The goal is to maximize PnL across all rounds without performing poorly in any round.
+- Position Limits: Each security has a position limit (e.g., 100 shares for BOND). Your position in any security must remain within these limits.
+- Profit and Loss (PnL): Your PnL is the value of your portfolio. The goal is to maximize PnL across all rounds without performing poorly in any round.
 
 ## Available Symbols and Conversion
 - BOND: A stock with a fixed fair value of 1000.
